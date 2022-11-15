@@ -1,0 +1,38 @@
+/*CSS RESET Rules*/
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.navbar {
+	position: fixed;
+	width: 100%;
+}
+
+.p1{
+	
+	margin-right: 40vw;
+}
+
+.p2 {
+	
+	margin-right: 50vw;
+}
+
+#p3 {
+	margin-bottom: 50px;
+}
+
+#no{
+	margin-top: 200px;
+}
+/*.bg-image {
+	height: 70vh;
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjyzde0DdNGgp4ZVBZL9XN2EtihxfL7IWwQ&usqp=CAU);
+	background-size: 100%;
+	background-color: black;
+	background-position: center;
+	background-repeat: no-repeat;
+}*/
