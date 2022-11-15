@@ -25,9 +25,18 @@
 	margin-bottom: 50px;
 }
 
-#no{
-	margin-top: 200px;
+div{
+	font-family: 'Open Sans',sans-serif;
+	font-size: 20px;
 }
+
+body {
+	background-color:  #F7FF95;
+}
+/*
+#myproject{
+	background-color: #F7FF95;
+}*/
 /*.bg-image {
 	height: 70vh;
 	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjyzde0DdNGgp4ZVBZL9XN2EtihxfL7IWwQ&usqp=CAU);
